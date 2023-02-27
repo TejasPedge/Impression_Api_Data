@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.2",
+    "serve": "^14.2.0"
+  },
+  "name": "impression_api_data",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TejasPedge/Impression_Api_Data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TejasPedge/Impression_Api_Data/issues"
+  },
+  "homepage": "https://github.com/TejasPedge/Impression_Api_Data#readme"
+}
