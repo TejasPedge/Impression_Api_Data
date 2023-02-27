@@ -1,10 +1,626 @@
-{
+{ "" : [
 
-     "mydata" : [
-
-           {"name" : "tejas"}
-
-     ]
-
-
- }
+      {
+      "id": 1,
+      "isSlider": false,
+      "heading": "Smooth Skin Routine",
+      "Product_heading": "All Products",
+      "total_data": "40",
+      
+      "banner": [
+      
+      {
+      "img1": "https://images-static.nykaa.com/uploads/ed5be5ef-93a2-44cc-8d92-da40d1890391.png?tr=w-1600,cm-pad_resize",
+      "img2": "https://images-static.nykaa.com/uploads/238ed45a-b9b2-4608-b48b-a17bfbaac3dc.jpg?tr=w-1600,cm-pad_resize",
+      "img3": "https://images-static.nykaa.com/uploads/9baf7f69-61bf-430e-99e3-b7621fe72e88.jpg?tr=w-1600,cm-pad_resize",
+      "img4": "https://images-static.nykaa.com/uploads/c7ffb66e-ef5d-44b0-8551-5316bcb08a0a.jpg?tr=w-1600,cm-pad_resize"
+      }
+      ],
+      
+      "all_data": [
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/7/3/732c164BEBOD00000139_1.jpg",
+      "title": "Be Bodywise 5% Niacinamide Body Wash with Aloe Vera Extract ...",
+      "delete_price": "₹399",
+      "price": "₹349",
+      "discount": "13% Off",
+      "extra_discount": "Extra 5% Off",
+      "ratings_count": "( 98 )",
+      "btn_text": "Add to Bag",
+      "tag": "",
+      "sizes": "",
+      "id": "slide_1_"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/c/7/c75eb2c11111002029_1.jpg",
+      "title": "Dove Exfoliating Body Polish Scrub with Pomegranate Seeds an...",
+      "delete_price": "₹725",
+      "price": "₹471",
+      "discount": "35% Off",
+      "extra_discount": "",
+      "ratings_count": "( 2786 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_2"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/f/e/fe06843GILLE00000003_1.jpg",
+      "title": "Gillette Venus Snap Hair Remover Women Body Razor",
+      "delete_price": "₹399",
+      "price": "₹279",
+      "discount": "30% Off",
+      "extra_discount": "",
+      "ratings_count": "( 1172 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_3"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/a/a/aa71f3fNIVEA00000102-1.jpg",
+      "title": "Nivea Aloe Vera Gel Body Lotion Non Sticky Feel, 24 Hours Hy...",
+      "delete_price": "₹479",
+      "price": "₹383",
+      "discount": "20% Off",
+      "extra_discount": "",
+      "ratings_count": "( 661 )",
+      "btn_text": "",
+      "tag": "",
+      "sizes": "3 sizes",
+      "id": "slide_1_4"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/6/2/624401b8906118410798_01.jpg",
+      "title": "Plum BodyLovin' Vanilla Vibes Body Oil, Intense Moisture + I...",
+      "delete_price": "₹550",
+      "price": "₹468",
+      "discount": "15% Off",
+      "extra_discount": "",
+      "ratings_count": "( 3791 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_5"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/e/a/eab8c3aN_4005808020133_1.jpg",
+      "title": "NIVEA Body Wash, Waterlily & Oil Shower Gel, Pampering Care ...",
+      "delete_price": "₹259",
+      "price": "₹194",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 7794 )",
+      "btn_text": "",
+      "tag": "BESTSELLER",
+      "sizes": "2 sizes",
+      "id": "slide_1_6"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/4/7/47db38fDOVEX00000032_1.jpg",
+      "title": "Dove Body Polish Pomegranate & Shower Mousse Argan Oil Combo",
+      "delete_price": "₹1100",
+      "price": "₹660",
+      "discount": "40% Off",
+      "extra_discount": "",
+      "ratings_count": "( 3857 )",
+      "btn_text": "Add to Bag",
+      "tag": "",
+      "sizes": "",
+      "id": "slide_1_7"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/n/y/nybndgill0002_2.jpg",
+      "title": "Gillette Venus Razor with Aloe Extract & 2 Refills Combo",
+      "delete_price": "₹624",
+      "price": "₹468",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 19298 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_8"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/2/f/2f63d26PLUMX00000007_1.jpg",
+      "title": "Plum Bodylovin' Vanilla Vibes Body Butter",
+      "delete_price": "₹525",
+      "price": "₹420",
+      "discount": "20% Off",
+      "extra_discount": "",
+      "ratings_count": "( 1116 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_9"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/e/f/ef67164BEBOD00000123_1.jpg",
+      "title": "Be Bodywise 10% Niacinamide Hydrating Body Lotion For Acne M...",
+      "delete_price": "₹499",
+      "price": "₹474",
+      "discount": "5% Off",
+      "extra_discount": "Extra 5% Off",
+      "ratings_count": "( 201 )",
+      "btn_text": "Add to Bag",
+      "tag": "",
+      "sizes": "",
+      "id": "slide_1_10"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/7/d/7d12f1c8710447280065_10.jpg",
+      "title": "Dove Shower Mousse with Rose Oil",
+      "delete_price": "₹375",
+      "price": "₹263",
+      "discount": "30% Off",
+      "extra_discount": "",
+      "ratings_count": "( 1097 )",
+      "btn_text": "Add to Bag",
+      "tag": "",
+      "sizes": "",
+      "id": "slide_1_11"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/8/a/8a82d298906118410774.jpg",
+      "title": "Plum BodyLovin' Vanilla Vibes Sugar Body Scrub",
+      "delete_price": "₹550",
+      "price": "₹413",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 828 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_12"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/e/3/e3ea3124902430857628_1.jpg",
+      "title": "Gillette Venus Comfortglide Hair Removal Razor for Women wit...",
+      "delete_price": "₹349",
+      "price": "₹262",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 10452 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_13"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/1/1/118e164BEBOD00000134_1.jpg",
+      "title": "Be Bodywise 5% Lactic Acid Body Lotion - Improves Skin Textu...",
+      "delete_price": "₹499",
+      "price": "₹474",
+      "discount": "5% Off",
+      "extra_discount": "Extra 5% Off",
+      "ratings_count": "( 435 )",
+      "btn_text": "Add to Bag",
+      "tag": "",
+      "sizes": "",
+      "id": "slide_1_14"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/9/4/94701e58904256009812_1.jpg",
+      "title": "NIVEA Body Lotion, Aloe Hydration, with Aloe Vera, for Smoot...",
+      "delete_price": "₹759",
+      "price": "₹569",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 4526 )",
+      "btn_text": "",
+      "tag": "",
+      "sizes": "3 sizes",
+      "id": "slide_1_15"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/2/4/2411164BEBOD00000136_1.jpg",
+      "title": "Be Bodywise 1% Salicylic Acid Body Wash + 5% Lactic Acid Bod...",
+      "delete_price": "₹848",
+      "price": "₹799",
+      "discount": "6% Off",
+      "extra_discount": "Extra 5% Off",
+      "ratings_count": "( 268 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_16"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/e/4/e4267bdDOVEX00000206_1.jpg",
+      "title": "Dove Exfoliating Body Polish Scrub For Delicate Skin",
+      "delete_price": "₹725",
+      "price": "₹471",
+      "discount": "35% Off",
+      "extra_discount": "",
+      "ratings_count": "( 67 )",
+      "btn_text": "Add to Bag",
+      "tag": "",
+      "sizes": "",
+      "id": "slide_1_17"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/5/3/5366c644902430857611_1.jpg",
+      "title": "Gillette Venus Hair Removal Razor For Women with Aloe Vera S...",
+      "delete_price": "₹299",
+      "price": "₹224",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 14064 )",
+      "btn_text": "Add to Bag",
+      "tag": "BESTSELLER",
+      "sizes": "",
+      "id": "slide_1_18"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/2/7/270816c4005808679829.jpg",
+      "title": "NIVEA Soft Light Moisturizer for Face, Hand & Body, Non-Stic...",
+      "delete_price": "₹465",
+      "price": "₹326",
+      "discount": "30% Off",
+      "extra_discount": "",
+      "ratings_count": "( 24147 )",
+      "btn_text": "",
+      "tag": "",
+      "sizes": "5 sizes",
+      "id": "slide_1_19"
+      },
+      
+      {
+      "custom_tag": "FEATURED",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/8/1/813201bPLUMX00000138_01.jpg",
+      "title": "Plum Bodylovin' Drivin' Me Cherry Body Oil, Intense Moisture...",
+      "delete_price": "₹550",
+      "price": "₹440",
+      "discount": "20% Off",
+      "extra_discount": "",
+      "ratings_count": "( 230 )",
+      "btn_text": "Add to Bag",
+      "tag": "",
+      "sizes": "",
+      "id": "slide_1_20"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/b/e/bec7bfa8906009452807.jpg",
+      "title": "Biotique Bio Papaya Revitalizing Tan Removal Scrub",
+      "delete_price": "₹180",
+      "price": "₹135",
+      "discount": "25% Off",
+      "extra_discount": "Extra 10% Off",
+      "ratings_count": "( 43646 )",
+      "sizes": "4 sizes",
+      "id": "slide_1_21",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/1/0/1038c2aNYKAB00000496_1.jpg",
+      "title": "Nykaa Wanderlust Shower Gel",
+      "delete_price": "₹350",
+      "price": "₹263",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 33356 )",
+      "sizes": "11 shades",
+      "id": "slide_1_22",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/2/a/2abb06fNYKMCF0000002_1.jpg",
+      "title": "MCaffeine Exfoliating Coffee Body Scrub For Tan Removal & So...",
+      "delete_price": "₹449",
+      "price": "₹384",
+      "discount": "14% Off",
+      "extra_discount": "Enjoy Free Gift",
+      "ratings_count": "( 53678 )",
+      "sizes": "2 sizes",
+      "id": "slide_1_23",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/c/9/c9e62a04005808752140_1.jpg",
+      "title": "NIVEA Body Lotion for Very Dry Skin, Nourishing Body Milk wi...",
+      "delete_price": "₹425",
+      "price": "₹276",
+      "discount": "35% Off",
+      "extra_discount": "",
+      "ratings_count": "( 26139 )",
+      "sizes": "4 sizes",
+      "id": "slide_1_24",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/n/y/nykab00000492_1.jpg",
+      "title": "Nykaa Wanderlust Body Lotion",
+      "delete_price": "₹450",
+      "price": "₹338",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 24043 )",
+      "sizes": "10 shades",
+      "id": "slide_1_25",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/2/a/2abb06fNYKMCF0000002_1.jpg",
+      "title": "MCaffeine Exfoliating Coffee Body Scrub for Tan Removal & So...",
+      "delete_price": "₹449",
+      "price": "₹384",
+      "discount": "14% Off",
+      "extra_discount": "Enjoy Free Gift",
+      "ratings_count": "( 53678 )",
+      "sizes": "",
+      "id": "slide_1_26",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/b/e/be291e58906009451084_1.jpg",
+      "title": "Biotique Morning Nectar Nourish & Hydrate Moisturizer",
+      "delete_price": "₹330",
+      "price": "₹241",
+      "discount": "27% Off",
+      "extra_discount": "Extra 10% Off",
+      "ratings_count": "( 28246 )",
+      "sizes": "",
+      "id": "slide_1_27",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/e/9/e95f164BEBOD00000076_1.jpg",
+      "title": "Be Bodywise 1% Salicylic Acid Body Wash",
+      "delete_price": "",
+      "price": "₹349",
+      "discount": "",
+      "extra_discount": "Extra 5% Off",
+      "ratings_count": "( 3714 )",
+      "sizes": "2 sizes",
+      "id": "slide_1_28",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/6/1/6128c2b12641_s1-8901030733888.jpg",
+      "title": "Vaseline Intensive Care Cocoa Glow Body Lotion",
+      "delete_price": "₹435",
+      "price": "₹326",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 16509 )",
+      "sizes": "4 sizes",
+      "id": "slide_1_29",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/9/8/982b139NYKBNDCTP0009_1.jpg",
+      "title": "Cetaphil Cleansing + Hydrating Regime",
+      "delete_price": "₹819",
+      "price": "₹696",
+      "discount": "15% Off",
+      "extra_discount": "",
+      "ratings_count": "( 14495 )",
+      "sizes": "",
+      "id": "slide_1_30",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/c/d/cd9f65bNYKMCF0000008_1.jpg",
+      "title": "MCaffeine Choco & Shea Body Butter - 72Hrs Moisturization & ...",
+      "delete_price": "₹645",
+      "price": "₹549",
+      "discount": "15% Off",
+      "extra_discount": "Enjoy Free Gift",
+      "ratings_count": "( 15769 )",
+      "sizes": "",
+      "id": "slide_1_31",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/3/8/3834dcb4902430854658_1.jpg",
+      "title": "Gillette Venus Glide Strip With Aloe Extracts 2 Refills",
+      "delete_price": "",
+      "price": "₹325",
+      "discount": "",
+      "extra_discount": "",
+      "ratings_count": "( 5316 )",
+      "sizes": "",
+      "id": "slide_1_32",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/n/y/nykab00000493_1.jpg",
+      "title": "Nykaa Wanderlust Body Butter",
+      "delete_price": "₹550",
+      "price": "₹385",
+      "discount": "30% Off",
+      "extra_discount": "",
+      "ratings_count": "( 5667 )",
+      "sizes": "10 shades",
+      "id": "slide_1_33",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/5/3/53f2d2bE000865_1.jpg",
+      "title": "The Body Shop British Rose Shower Gel",
+      "delete_price": "₹395",
+      "price": "₹316",
+      "discount": "20% Off",
+      "extra_discount": "",
+      "ratings_count": "( 6119 )",
+      "sizes": "",
+      "id": "slide_1_34",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/n/y/nykab00000098_1.jpg",
+      "title": "Nykaa Wanderlust Body Scrub",
+      "delete_price": "₹350",
+      "price": "₹245",
+      "discount": "30% Off",
+      "extra_discount": "",
+      "ratings_count": "( 9367 )",
+      "sizes": "9 shades",
+      "id": "slide_1_35",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/d/1/d14ab978901012411612_1.jpg",
+      "title": "Aveeno Daily Moisturizing Lotion For Dry Skin",
+      "delete_price": "",
+      "price": "₹1000",
+      "discount": "",
+      "extra_discount": "",
+      "ratings_count": "( 2291 )",
+      "sizes": "",
+      "id": "slide_1_36",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/8/9/8908008452000_1.jpg",
+      "title": "Max Care Virgin Coconut Oil (Cold Pressed)",
+      "delete_price": "",
+      "price": "₹220",
+      "discount": "",
+      "extra_discount": "",
+      "ratings_count": "( 9461 )",
+      "sizes": "3 sizes",
+      "id": "slide_1_37",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/f/f/ffa10fb8906009452111_1.jpg",
+      "title": "Biotique Bio Apricot Refreshing Body Wash",
+      "delete_price": "₹800",
+      "price": "₹584",
+      "discount": "27% Off",
+      "extra_discount": "Extra 10% Off",
+      "ratings_count": "( 9456 )",
+      "sizes": "3 sizes",
+      "id": "slide_1_38",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/9/0/904cd8b8904256000109_1.jpg",
+      "title": "NIVEA Body Lotion for Very Dry Skin, Cocoa Nourish, with Coc...",
+      "delete_price": "₹519",
+      "price": "₹389",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 6569 )",
+      "sizes": "2 sizes",
+      "id": "slide_1_39",
+      "btn_text": "Add To Bag"
+      },
+      
+      {
+      "custom_tag": "",
+      "tag": "",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/1/2/12ec4ad8901030769443_new_1.jpg",
+      "title": "Vaseline Intensive Care Deep Moisture Body Lotion",
+      "delete_price": "₹575",
+      "price": "₹431",
+      "discount": "25% Off",
+      "extra_discount": "",
+      "ratings_count": "( 15341 )",
+      "sizes": "4 sizes",
+      "id": "slide_1_40",
+      "btn_text": "Add To Bag"
+      }
+      ]
+      }
+      ]
+      
+}
+      
