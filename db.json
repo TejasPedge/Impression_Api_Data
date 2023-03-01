@@ -1150,20 +1150,6 @@
             "btn_text": "Add To Bag"
             },
             
-            {
-            "custom_tag": "",
-            "tag": "",
-            "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-1600,h-1600,cm-pad_resize/d/1/d14ab978901012411612_1.jpg",
-            "title": "Aveeno Daily Moisturizing Lotion For Dry Skin",
-            "delete_price": "",
-            "price": "₹1000",
-            "discount": "",
-            "extra_discount": "",
-            "ratings_count": "( 2291 )",
-            "sizes": "",
-            "id": "slide_1_36",
-            "btn_text": "Add To Bag"
-            },
             
             {
             "custom_tag": "",
@@ -1176,7 +1162,7 @@
             "extra_discount": "",
             "ratings_count": "( 9461 )",
             "sizes": "3 sizes",
-            "id": "slide_1_37",
+            "id": "slide_1_36",
             "btn_text": "Add To Bag"
             },
             
@@ -1191,7 +1177,7 @@
             "extra_discount": "Extra 10% Off",
             "ratings_count": "( 9456 )",
             "sizes": "3 sizes",
-            "id": "slide_1_38",
+            "id": "slide_1_37",
             "btn_text": "Add To Bag"
             },
             
@@ -1206,7 +1192,7 @@
             "extra_discount": "",
             "ratings_count": "( 6569 )",
             "sizes": "2 sizes",
-            "id": "slide_1_39",
+            "id": "slide_1_38",
             "btn_text": "Add To Bag"
             },
             
@@ -1221,7 +1207,7 @@
             "extra_discount": "",
             "ratings_count": "( 15341 )",
             "sizes": "4 sizes",
-            "id": "slide_1_40",
+            "id": "slide_1_39",
             "btn_text": "Add To Bag"
             }
             ]
